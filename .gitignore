@@ -1,3 +1,4 @@
 about.html
 config.js
-#*.txt
+*.txt
+temp/
